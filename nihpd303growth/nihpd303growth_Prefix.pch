@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'nihpd303growth' target in the 'nihpd303growth' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

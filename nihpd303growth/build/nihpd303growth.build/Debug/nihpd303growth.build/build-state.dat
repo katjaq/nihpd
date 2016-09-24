@@ -1,0 +1,284 @@
+Tnihpd303growth
+v7
+r0
+t317719467.555052
+cCheck dependencies
+cProcessInfoPlistFile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Info.plist nihpd303growth-Info.plist
+cCpResource build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib
+cCompileXIB /Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib
+cCpResource build/Debug/nihpd303growth.app/Contents/Resources/nihpd303.txt ../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt
+cProcessPCH /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch.gch nihpd303growth_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyDocument.o /Users/roberto/Desktop/nihpd303growth/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/main.o /Users/roberto/Desktop/nihpd303growth/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyView.o /Users/roberto/Desktop/nihpd303growth/MyView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth normal x86_64
+cTouch /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/roberto/Desktop/nihpd303growth/../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt
+c000000004CF03FC60000000000002623
+t1290813382
+s9763
+
+N/Users/roberto/Desktop/nihpd303growth/English.lproj/Credits.rtf
+c000000004D3ED78100000000000001B4
+t1295964033
+s436
+
+N/Users/roberto/Desktop/nihpd303growth/English.lproj/InfoPlist.strings
+c000000004D3ED781000000000000002D
+t1295964033
+s45
+
+N/Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib
+c000000004D3ED781000000000002AE00
+t1295964033
+s175616
+
+N/Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib
+c000000004D3FA3E200000000000070CA
+t1296016354
+s28874
+
+N/Users/roberto/Desktop/nihpd303growth/MyDocument.h
+c000000004D3FA3C40000000000000100
+t1296016324
+s256
+i<Cocoa/Cocoa.h>
+i"MyView.h"
+
+N/Users/roberto/Desktop/nihpd303growth/MyDocument.m
+c000000004D3ED78100000000000009EF
+t1295964033
+s2543
+i"MyDocument.h"
+
+N/Users/roberto/Desktop/nihpd303growth/MyView.h
+c000000004D3FACFB0000000000000130
+t1296018683
+s304
+i<Cocoa/Cocoa.h>
+
+N/Users/roberto/Desktop/nihpd303growth/MyView.m
+c000000004D41B2380000000000000E68
+t1296151096
+s3688
+i"MyView.h"
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app
+t1296026667
+s102
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Info.plist
+t1296018297
+s1331
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth
+t1296026667
+s22040
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/PkgInfo
+t1296018297
+s8
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/Credits.rtf
+t1296018298
+s436
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1296018298
+s92
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/MainMenu.nib
+t1296018299
+s33358
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/MyDocument.nib
+t1296018299
+s2735
+
+N/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/nihpd303.txt
+t1296018299
+s9763
+
+N/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyDocument.o
+t1296019388
+s19844
+
+N/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyView.o
+t1296026667
+s28236
+
+N/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/main.o
+t1296018307
+s4984
+
+N/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/nihpd303growth.LinkFileList
+c000000004D3FAB790000000000000173
+t1296018297
+s371
+
+N/Users/roberto/Desktop/nihpd303growth/main.m
+c000000004D3ED7810000000000000101
+t1295964033
+s257
+i<Cocoa/Cocoa.h>
+
+N/Users/roberto/Desktop/nihpd303growth/nihpd303growth_Prefix.pch
+c000000004D3ED781000000000000009F
+t1295964033
+s159
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch.gch
+t1296018307
+s54265616
+
+Nnihpd303growth-Info.plist
+c000000004D3ED78100000000000005CA
+t1295964033
+s1482
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317719467#317719467#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyDocument.o /Users/roberto/Desktop/nihpd303growth/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317712187.787975
+e317712188.187100
+r1
+xCompileC
+xbuild/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyDocument.o
+x/Users/roberto/Desktop/nihpd303growth/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/roberto/Desktop/nihpd303growth/MyDocument.m317712187#317712188#0(0"0(0#0#50"/Users/roberto/Desktop/nihpd303growth/MyDocument.m4300911832#1591"    cd /Users/roberto/Desktop/nihpd303growth    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-generated-files.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-own-target-headers.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-all-target-headers.hmap -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-project-headers.hmap -F/Users/roberto/Desktop/nihpd303growth/build/Debug -I/Users/roberto/Desktop/nihpd303growth/build/Debug/include -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources/x86_64 -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch -c /Users/roberto/Desktop/nihpd303growth/MyDocument.m -o /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyDocument.o0#
+
+CCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyView.o /Users/roberto/Desktop/nihpd303growth/MyView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317719467.042079
+e317719467.512436
+r1
+xCompileC
+xbuild/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyView.o
+x/Users/roberto/Desktop/nihpd303growth/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/roberto/Desktop/nihpd303growth/MyView.m317719467#317719467#0(0"0(0#0#46"/Users/roberto/Desktop/nihpd303growth/MyView.m4300911832#1583"    cd /Users/roberto/Desktop/nihpd303growth    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-generated-files.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-own-target-headers.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-all-target-headers.hmap -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-project-headers.hmap -F/Users/roberto/Desktop/nihpd303growth/build/Debug -I/Users/roberto/Desktop/nihpd303growth/build/Debug/include -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources/x86_64 -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch -c /Users/roberto/Desktop/nihpd303growth/MyView.m -o /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/MyView.o0#
+
+CCompileC build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/main.o /Users/roberto/Desktop/nihpd303growth/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317711107.302255
+e317711107.838005
+r1
+xCompileC
+xbuild/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Desktop/nihpd303growth/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/roberto/Desktop/nihpd303growth/main.m317711107#317711107#0(0"0(0#0#44"/Users/roberto/Desktop/nihpd303growth/main.m4300911832#1579"    cd /Users/roberto/Desktop/nihpd303growth    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-generated-files.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-own-target-headers.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-all-target-headers.hmap -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-project-headers.hmap -F/Users/roberto/Desktop/nihpd303growth/build/Debug -I/Users/roberto/Desktop/nihpd303growth/build/Debug/include -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources/x86_64 -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch -c /Users/roberto/Desktop/nihpd303growth/main.m -o /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib
+s317711098.830330
+e317711099.521164
+r1
+xCompileXIB
+x/Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib317711098#317711099#0(0"0(0#0#64"/Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib4300911832#331"    cd /Users/roberto/Desktop/nihpd303growth    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/MainMenu.nib /Users/roberto/Desktop/nihpd303growth/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib
+s317711098.066365
+e317711099.482360
+r1
+xCompileXIB
+x/Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib317711098#317711099#0(0"0(0#0#66"/Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib4300911832#335"    cd /Users/roberto/Desktop/nihpd303growth    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/MyDocument.nib /Users/roberto/Desktop/nihpd303growth/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s317711097.874758
+e317711098.830232
+r1
+xCopyStringsFile
+x/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Applications/_Neuro/freesurfer in PATH, mode 040777
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings317711097#317711098#0(184"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Applications/_Neuro/freesurfer in PATH, mode 0407770(0#0#69"/Users/roberto/Desktop/nihpd303growth/English.lproj/InfoPlist.strings4300911832#370"    cd /Users/roberto/Desktop/nihpd303growth    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/nihpd303growth.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s317711097.829894
+e317711098.066265
+r1
+xCpResource
+xbuild/Debug/nihpd303growth.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf317711097#317711098#0(0"0(0#0#63"/Users/roberto/Desktop/nihpd303growth/English.lproj/Credits.rtf4300911832#359"    cd /Users/roberto/Desktop/nihpd303growth    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/roberto/Desktop/nihpd303growth/English.lproj/Credits.rtf /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/nihpd303growth.app/Contents/Resources/nihpd303.txt ../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt
+s317711099.482540
+e317711099.490704
+r1
+xCpResource
+xbuild/Debug/nihpd303growth.app/Contents/Resources/nihpd303.txt
+x../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt
+lSLF07#2@55"Copy ../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt317711099#317711099#0(0"0(0#0#88"/Users/roberto/Desktop/nihpd303growth/../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt4300911832#370"    cd /Users/roberto/Desktop/nihpd303growth    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/roberto/Desktop/nihpd303growth/../../Documents/_04_Data/2007_07NIHPD/nihpd303.txt /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Resources0#
+
+CLd /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth normal x86_64
+s317719467.512531
+e317719467.551914
+r1
+xLd
+x/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth317719467#317719467#0(0"0(0#0#0"4300911832#572"    cd /Users/roberto/Desktop/nihpd303growth    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/roberto/Desktop/nihpd303growth/build/Debug -F/Users/roberto/Desktop/nihpd303growth/build/Debug -filelist /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/Objects-normal/x86_64/nihpd303growth.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/MacOS/nihpd303growth0#
+
+CProcessInfoPlistFile /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Info.plist nihpd303growth-Info.plist
+s317711097.803149
+e317711097.829761
+r1
+xProcessInfoPlistFile
+x/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Info.plist
+xnihpd303growth-Info.plist
+lSLF07#2@33"Process nihpd303growth-Info.plist317711097#317711097#0(0"0(0#0#63"/Users/roberto/Desktop/nihpd303growth/nihpd303growth-Info.plist30962449308385396#328"    cd /Users/roberto/Desktop/nihpd303growth    builtin-infoPlistUtility nihpd303growth-Info.plist -genpkginfo /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch.gch nihpd303growth_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317711099.521302
+e317711107.300584
+r1
+xProcessPCH
+x/var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch.gch
+xnihpd303growth_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile nihpd303growth_Prefix.pch317711099#317711107#0(0"0(0#0#63"/Users/roberto/Desktop/nihpd303growth/nihpd303growth_Prefix.pch4300911832#1479"    cd /Users/roberto/Desktop/nihpd303growth    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-generated-files.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-own-target-headers.hmap -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-all-target-headers.hmap -iquote /Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/nihpd303growth-project-headers.hmap -F/Users/roberto/Desktop/nihpd303growth/build/Debug -I/Users/roberto/Desktop/nihpd303growth/build/Debug/include -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources/x86_64 -I/Users/roberto/Desktop/nihpd303growth/build/nihpd303growth.build/Debug/nihpd303growth.build/DerivedSources -c /Users/roberto/Desktop/nihpd303growth/nihpd303growth_Prefix.pch -o /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/nihpd303growth_Prefix-ccuwukqldejhauafwrdgixrnhehk/nihpd303growth_Prefix.pch.gch0#
+
+CTouch /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app
+s317719467.552014
+e317719467.555000
+r1
+xTouch
+x/Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app
+lSLF07#2@74"Touch /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app317719467#317719467#0(0"0(0#0#0"4300911832#136"    cd /Users/roberto/Desktop/nihpd303growth    /usr/bin/touch -c /Users/roberto/Desktop/nihpd303growth/build/Debug/nihpd303growth.app0#
+
