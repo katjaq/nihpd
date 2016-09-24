@@ -1,0 +1,76 @@
+Tnlfit
+v7
+r0
+t312484957.790171
+cCheck dependencies
+cCompileC build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/main.o /Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC320BA00000000000004F1
+t1254301882
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit
+t1290792157
+s18976
+
+N/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/main.o
+t1290792157
+s17248
+
+N/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/nlfit.LinkFileList
+c000000004CEFECDC0000000000000077
+t1290792156
+s119
+
+N/Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c
+c000000004CEFECDC00000000000027D5
+t1290792156
+s10197
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312484956#312484956#0(0"0(0#1#0"4324459736#0"0#
+
+CCompileC build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/main.o /Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s312484956.834913
+e312484957.039175
+r1
+xCompileC
+xbuild/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c312484956#312484957#0(0"0(0#0#60"/Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c4324459736#1399"    cd /Users/roberto/Documents/201011Longitudinal/bin/nlfit    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/nlfit-generated-files.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/nlfit-own-target-headers.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/nlfit-all-target-headers.hmap -iquote /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/nlfit-project-headers.hmap -F/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug -I/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/include -I/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/DerivedSources/x86_64 -I/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/DerivedSources -c /Users/roberto/Documents/201011Longitudinal/bin/nlfit/main.c -o /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit normal x86_64
+s312484957.039363
+e312484957.790122
+r1
+xLd
+x/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit312484957#312484957#0(0"0(0#0#0"4324459736#565"    cd /Users/roberto/Documents/201011Longitudinal/bin/nlfit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug -F/Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug -filelist /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/nlfit.build/Debug/nlfit.build/Objects-normal/x86_64/nlfit.LinkFileList -mmacosx-version-min=10.6 -o /Users/roberto/Documents/201011Longitudinal/bin/nlfit/build/Debug/nlfit0#
+

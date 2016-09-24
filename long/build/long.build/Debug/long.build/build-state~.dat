@@ -1,0 +1,266 @@
+Tlong
+v7
+r0
+t312450171.957367
+cCheck dependencies
+cProcessInfoPlistFile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Info.plist long-Info.plist
+cCpResource build/Debug/long.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib
+cCompileXIB /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch.gch long_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/MyDocument.o /Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/main.o /Users/roberto/Documents/201011Longitudinal/bin/long/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/MyView.o /Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long normal x86_64
+cTouch /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/Credits.rtf
+c000000004CEEBC8300000000000001B4
+t1290714243
+s436
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/InfoPlist.strings
+c000000004CEEBC83000000000000002D
+t1290714243
+s45
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib
+c000000004CEEBC83000000000002ADC4
+t1290714243
+s175556
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib
+c000000004CEF5F490000000000006D9C
+t1290755913
+s28060
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.h
+c000000004CEF62D20000000000000107
+t1290756818
+s263
+i<Cocoa/Cocoa.h>
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m
+c000000004CEF64CC000000000000083D
+t1290757324
+s2109
+i"MyDocument.h"
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/MyView.h
+c000000004CEF5F9E00000000000000C1
+t1290755998
+s193
+i<Cocoa/Cocoa.h>
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m
+c000000004CEF61AE0000000000000190
+t1290756526
+s400
+i"MyView.h"
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app
+t1290757371
+s102
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Info.plist
+t1290757357
+s1308
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long
+t1290757371
+s16552
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/PkgInfo
+t1290757357
+s8
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/Credits.rtf
+t1290757357
+s436
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1290757359
+s92
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/MainMenu.nib
+t1290757362
+s33238
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/MyDocument.nib
+t1290757362
+s2350
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/MyDocument.o
+t1290757370
+s22460
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/MyView.o
+t1290757370
+s13540
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/long.LinkFileList
+c000000004CEF64ED0000000000000164
+t1290757357
+s356
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/main.o
+t1290757370
+s5016
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/long_Prefix.pch
+c000000004CEEBC83000000000000008B
+t1290714243
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/roberto/Documents/201011Longitudinal/bin/long/main.m
+c000000004CEEBC8300000000000000F7
+t1290714243
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch.gch
+t1290757370
+s54265616
+
+Nlong-Info.plist
+c000000004CEF64E900000000000005D1
+t1290757353
+s1489
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312450157#312450157#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/MyDocument.o /Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312450170.384150
+e312450170.677893
+r1
+xCompileC
+xbuild/long.build/Debug/long.build/Objects-normal/x86_64/MyDocument.o
+x/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m: In function '-[MyDocument readData]':
+o/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m:69: warning: unused variable 'i'
+lSLF07#2@73"Compile /Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m312450170#312450170#0(204"/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m: In function '-[MyDocument readData]':/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m:69: warning: unused variable 'i'1(22@19"Unused variable 'i'312450170#105#99#0(6@65"/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m312450124#69#0#69#0#19"unused variable '*'0(0#0#65"/Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m4324459736#1556"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-generated-files.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-own-target-headers.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-all-target-headers.hmap -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-project-headers.hmap -F/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/include -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources/x86_64 -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch -c /Users/roberto/Documents/201011Longitudinal/bin/long/MyDocument.m -o /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/MyDocument.o0#
+
+CCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/MyView.o /Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312450170.676792
+e312450170.877036
+r1
+xCompileC
+xbuild/long.build/Debug/long.build/Objects-normal/x86_64/MyView.o
+x/Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m312450170#312450170#0(0"0(0#0#61"/Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m4324459736#1548"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-generated-files.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-own-target-headers.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-all-target-headers.hmap -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-project-headers.hmap -F/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/include -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources/x86_64 -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch -c /Users/roberto/Documents/201011Longitudinal/bin/long/MyView.m -o /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/MyView.o0#
+
+CCompileC build/long.build/Debug/long.build/Objects-normal/x86_64/main.o /Users/roberto/Documents/201011Longitudinal/bin/long/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312450170.385735
+e312450170.676691
+r1
+xCompileC
+xbuild/long.build/Debug/long.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Documents/201011Longitudinal/bin/long/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/roberto/Documents/201011Longitudinal/bin/long/main.m312450170#312450170#0(0"0(0#0#59"/Users/roberto/Documents/201011Longitudinal/bin/long/main.m4324459736#1544"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-generated-files.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-own-target-headers.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-all-target-headers.hmap -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-project-headers.hmap -F/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/include -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources/x86_64 -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources -include /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch -c /Users/roberto/Documents/201011Longitudinal/bin/long/main.m -o /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib
+s312450159.408691
+e312450162.768210
+r1
+xCompileXIB
+x/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib312450159#312450162#0(0"0(0#0#79"/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib4324459736#366"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/MainMenu.nib /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib
+s312450157.731239
+e312450162.738285
+r1
+xCompileXIB
+x/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib312450157#312450162#0(0"0(0#0#81"/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib4324459736#370"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/MyDocument.nib /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s312450157.573847
+e312450159.408534
+r1
+xCopyStringsFile
+x/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Applications/_Neuro/freesurfer in PATH, mode 040777
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings312450157#312450159#0(184"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Applications/_Neuro/freesurfer in PATH, mode 0407770(0#0#84"/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/InfoPlist.strings4324459736#390"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/long.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s312450157.542847
+e312450157.731131
+r1
+xCpResource
+xbuild/Debug/long.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf312450157#312450157#0(0"0(0#0#78"/Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/Credits.rtf4324459736#394"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/roberto/Documents/201011Longitudinal/bin/long/English.lproj/Credits.rtf /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Resources/English.lproj0#
+
+CLd /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long normal x86_64
+s312450170.877135
+e312450171.903585
+r1
+xLd
+x/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long312450170#312450171#0(0"0(0#0#0"4324459736#597"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -F/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -filelist /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/Objects-normal/x86_64/long.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/MacOS/long0#
+
+CProcessInfoPlistFile /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Info.plist long-Info.plist
+s312450157.526322
+e312450157.542745
+r1
+xProcessInfoPlistFile
+x/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Info.plist
+xlong-Info.plist
+lSLF07#2@23"Process long-Info.plist312450157#312450157#0(0"0(0#0#68"/Users/roberto/Documents/201011Longitudinal/bin/long/long-Info.plist30962724186619952#343"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    builtin-infoPlistUtility long-Info.plist -genpkginfo /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch.gch long_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312450162.768349
+e312450170.383950
+r1
+xProcessPCH
+x/var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch.gch
+xlong_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile long_Prefix.pch312450162#312450170#0(0"0(0#0#68"/Users/roberto/Documents/201011Longitudinal/bin/long/long_Prefix.pch4324459736#1439"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-generated-files.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-own-target-headers.hmap -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-all-target-headers.hmap -iquote /Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/long-project-headers.hmap -F/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/include -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources/x86_64 -I/Users/roberto/Documents/201011Longitudinal/bin/long/build/long.build/Debug/long.build/DerivedSources -c /Users/roberto/Documents/201011Longitudinal/bin/long/long_Prefix.pch -o /var/folders/Gy/GyLa+0PRHmqwQu+MGIlCx++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/long_Prefix-ffugbwjtalrnkldfqlrxqsivovlm/long_Prefix.pch.gch0#
+
+CTouch /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app
+s312450171.904407
+e312450171.957308
+r1
+xTouch
+x/Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app
+lSLF07#2@79"Touch /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app312450171#312450171#0(0"0(0#0#0"4324459736#156"    cd /Users/roberto/Documents/201011Longitudinal/bin/long    /usr/bin/touch -c /Users/roberto/Documents/201011Longitudinal/bin/long/build/Debug/long.app0#
+
